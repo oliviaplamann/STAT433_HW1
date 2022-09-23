@@ -45,7 +45,7 @@ missing_dep_time %>%
 ##### 1c). What might these rows represent?
 
 These rows might represent cancelled flights or flights that never
-actually took of.
+actually took off.
 
 #### Question 2: Currently dep\_time and sched\_dep\_time are convenient to look at, but hard to compute with because they’re not really continuous numbers. Convert them to a more convenient representation of number of minutes since midnight.
 
