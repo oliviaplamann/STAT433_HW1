@@ -1,8 +1,12 @@
 ---
 title: "STAT433_HW1"
 subtitle: "Olivia Plamann"
-output: github_document
+output: html_document
 ---
+
+# Link to [Github](https://github.com/oliviaplamann/STAT433_HW1) Folder for this Homework:
+https://github.com/oliviaplamann/STAT433_HW1
+
 
 ```{r, message=FALSE}
 library(dplyr)
